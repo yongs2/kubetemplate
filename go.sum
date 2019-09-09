@@ -1,5 +1,5 @@
-github.com/CyCoreSystems/netdiscover v1.2.4 h1:/9e1KlFkn5LPUMXEwDbkVfXqMJrgCWbiiXkt7GEItFs=
-github.com/CyCoreSystems/netdiscover v1.2.4/go.mod h1:RN7msKC9tTuYeqyMPJSEOzVUruw6xYgisO4XJ25hjFw=
+github.com/yongs2/netdiscover v1.2.8 h1:/9e1KlFkn5LPUMXEwDbkVfXqMJrgCWbiiXkt7GEItFs=
+github.com/yongs2/netdiscover v1.2.8/go.mod h1:RN7msKC9tTuYeqyMPJSEOzVUruw6xYgisO4XJ25hjFw=
 github.com/ericchiang/k8s v1.2.0 h1:vxrMwEzY43oxu8aZyD/7b1s8tsBM+xoUoxjWECWFbPI=
 github.com/ericchiang/k8s v1.2.0/go.mod h1:/OmBgSq2cd9IANnsGHGlEz27nwMZV2YxlpXuQtU3Bz4=
 github.com/golang/protobuf v1.3.1 h1:YF8+flBXS5eO826T4nzqPrxfhQThhXl0YzfuUPu4SBg=
